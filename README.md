@@ -64,5 +64,5 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-# api with Laravel passport and fixed for Laravel version 10 passport authentication installation failed. the cmd is 
+# API with Laravel passport and fixed for Laravel version 10 passport authentication installation failed. the cmd is 
 ```composer require laravel/passport --ignore-platform-req=ext-sodium -W```
